@@ -1,0 +1,22 @@
+{
+  "name": "git-exercicios-turma-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanjhonnes/devschool-git-exercicios.git"
+  },
+  "author": "Alan Jhonnes <alanjhonnes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanjhonnes/devschool-git-exercicios/issues"
+  },
+  "homepage": "https://github.com/alanjhonnes/devschool-git-exercicios#readme",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
+}
