@@ -1,1 +1,1 @@
-export const JOANA_SILVA = "Joana Silva";
+export const JOANA_SILVA = "Joana Silva.";
