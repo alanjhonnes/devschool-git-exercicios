@@ -1,1 +1,1 @@
-export const CLAUDIA_MAIA = "Cludia Maia";
+export const CLAUDIA_MAIA = "Claudia Maia";
