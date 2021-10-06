@@ -1,5 +1,5 @@
-import { ALAN_JHONNES } from "../alunos/alan-jhonnes";
+import { ERIKA_MORAIS } from "../alunos/erika-morais";
 
 export const turma: string[] = [
-    ALAN_JHONNES,
+    ERIKA_MORAIS,
 ]
