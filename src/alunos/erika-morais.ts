@@ -1,0 +1,1 @@
+export const ERIKA_MORAIS = "Érika Morais";
