@@ -1,0 +1,1 @@
+export const JULIANA_OLIVEIRA = "Juliana Oliveira";
